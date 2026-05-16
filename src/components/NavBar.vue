@@ -1,6 +1,6 @@
 <template>
-    <v-app-bar density="compact" color="#827717">
-      <v-toolbar-title>Utang Monitoring</v-toolbar-title>
+    <v-app-bar density="compact" color="#212121">
+      <v-toolbar-title>JEYS | DEV</v-toolbar-title>
       
       <v-spacer></v-spacer>
   
