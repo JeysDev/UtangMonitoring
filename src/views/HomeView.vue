@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h1>UTANG MONITORING</h1>
+    <v-col>
+      <v-row>
+        
+      </v-row>
+    </v-col>
   </div>
 </template>
 
